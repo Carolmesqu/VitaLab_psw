@@ -1,0 +1,14 @@
+body{
+    background-image: url('/static/geral/img/bg1.jpg');
+    background-size: cover;
+}
+
+p{
+    color: var(--light-color);
+}
+
+.imagem-arredondada {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px; 
+}

@@ -1,0 +1,5 @@
+Ativando venv:
+source venv/Scripts/activate
+
+Rodando servidor:
+python manage.py runserver
