@@ -1,5 +1,11 @@
+No windows
+
 Ativando venv:
 source venv/Scripts/activate
 
 Rodando servidor:
 python manage.py runserver
+
+Executando migrações:
+python manage.py makemigrations
+python manage.py migrate
