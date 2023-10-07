@@ -19,4 +19,5 @@ urlpatterns = [
         views.solicitar_senha_exame,
         name="solicitar_senha_exame",
     ),
+    path('gerar_acesso_medico/', views.gerar_acesso_medico, name="gerar_acesso_medico"),
 ]
