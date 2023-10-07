@@ -9,3 +9,10 @@ python manage.py runserver
 Executando migrações:
 python manage.py makemigrations
 python manage.py migrate
+
+Usuario admin:
+python manage.py createsuperuser
+
+Super Usuario:
+carol
+123456
